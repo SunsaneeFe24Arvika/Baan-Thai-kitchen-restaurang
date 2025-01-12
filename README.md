@@ -1,1 +1,2 @@
-# Baan-Thai-kitchen-restaurang
+# Individuell-Examination
+Bonz.ai - Framtidens hotellvistelser
