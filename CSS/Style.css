@@ -645,7 +645,7 @@ hr {
 .main-course__group-1, .main-course__group-2,
 .main-course__group-3 {
     display: grid;
-    grid-template-columns: 50px 700px 150px;
+    grid-template-columns: 50px 600px 150px;
     padding-top: 1rem;
     padding-bottom: 2rem;
 }
