@@ -1,1 +1,2 @@
-# Baan-Thai-kitchen-restauran, Arvika
+# Individuell-Examination
+Bonz.ai - Framtidens hotellvistelser

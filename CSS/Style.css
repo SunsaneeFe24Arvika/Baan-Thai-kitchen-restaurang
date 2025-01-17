@@ -146,9 +146,7 @@ input {
     padding: 0 5rem;
     align-items: center;
     margin-top: 3rem;
-    
-
-    
+        
 }
 .aside__header__img--circle {
     background-image: url(../assets/images/pad-thai-4705276_1280.jpg);
@@ -172,6 +170,7 @@ input {
     text-align: center;
     width: 90%;
 }
+
 
 
 /*PRESENT SECTION*/
@@ -320,6 +319,8 @@ hr {
 }
 .offers__heading__title {
     word-spacing: 5px;
+    font-size: 25px;
+    color: var(--primary-hover-color);
 }
 .offers__article__grid img{
     aspect-ratio: 1;
@@ -329,6 +330,9 @@ hr {
 
 }
 
+.offers__text__article {
+    height: 250px;
+}
 
 
 /*FOOTER SECTION*/
@@ -645,7 +649,7 @@ hr {
 .main-course__group-1, .main-course__group-2,
 .main-course__group-3 {
     display: grid;
-    grid-template-columns: 50px 600px 150px;
+    grid-template-columns: 50px 700px 150px;
     padding-top: 1rem;
     padding-bottom: 2rem;
 }
@@ -865,7 +869,19 @@ hr {
 }
 
 
-/*ROOM INFOMATION SECTION*/
+/*CATERING PAGE*/
+
+.catering-page {
+    background-image: url(../assets/Images/wedding-party.png);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 20%;
+    color: var(--primary-fonts-color);
+    box-shadow: var(--main-box-shadow);
+}
 
 .room-info__flex-box, .results-info {
     margin: 0 3rem;
